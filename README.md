@@ -104,4 +104,4 @@ This project was built by:
 
 ## 📄 License
 
-This project is open-sourced under the **[MIT License / Apache 2.0 License / etc.]** - see the `LICENSE.md` file for details.
+This project is open-sourced under the **MIT License**
